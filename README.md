@@ -1,9 +1,9 @@
 # object-detection-using-cv
-#Real-Time Object Detection using YOLOv8 (Webcam)
+Real-Time Object Detection using YOLOv8 (Webcam)
 
 This project performs real-time object detection using a webcam with YOLOv8, OpenCV, and cvzone. It detects 80 common objects (COCO dataset) such as people, cars, animals, and everyday items, displaying bounding boxes, class names, confidence scores, and FPS.
 
-#Features
+Features
 
 Real-time object detection via webcam
 
@@ -16,3 +16,15 @@ Confidence score and class label display
 FPS (Frames Per Second) calculation
 
 Supports 80 COCO object classes
+
+Technologies Used
+
+1.Python 3.8+
+
+2.Ultralytics YOLOv8
+
+3.OpenCV
+
+4.cvzone
+
+5.NumPY
